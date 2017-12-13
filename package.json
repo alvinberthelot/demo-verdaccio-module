@@ -1,0 +1,24 @@
+{
+  "name": "demo-verdaccio-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinberthelot/demo-verdaccio-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinberthelot/demo-verdaccio-module/issues"
+  },
+  "homepage": "https://github.com/alvinberthelot/demo-verdaccio-module#readme"
+}
