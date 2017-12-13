@@ -1,5 +1,5 @@
 'use strict'
 
 module.exports = {
-	hello: () => 'Hello world from Nantes'
+	hello: () => 'Hello World from Nantes'
 }

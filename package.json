@@ -1,6 +1,6 @@
 {
-  "name": "demo-verdaccio-module",
-  "version": "1.0.0",
+  "name": "hello-world-from-nantes",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
