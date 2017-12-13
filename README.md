@@ -1,0 +1,1 @@
+# demo-verdaccio-module
